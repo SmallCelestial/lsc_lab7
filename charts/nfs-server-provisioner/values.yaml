@@ -1,0 +1,5 @@
+nfs:
+  server: true
+  persistence:
+    enabled: true
+    storageClass: "nfs-storage"
